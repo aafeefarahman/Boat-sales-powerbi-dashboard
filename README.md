@@ -1,58 +1,42 @@
-# BoAt Sales Analytics Dashboard (Power BI)
+# BoAt Sales Analytics Dashboard
 
-This project presents an interactive **Power BI dashboard** built to analyze sales performance of BoAt products. The dashboard provides insights into key business metrics, sales trends, customer purchasing behavior, and regional performance.
+This project showcases an interactive **Power BI dashboard** designed to explore and visualize sales performance for BoAt products. The dashboard transforms raw sales data into clear business insights, enabling better understanding of product demand, customer behavior, and sales trends.
 
 ## Dashboard Preview
-  <img width="582" height="327" alt="image" src="https://github.com/user-attachments/assets/415008ff-9dae-4f25-a06b-f31c9aadbced" />
+<img width="583" height="323" alt="image" src="https://github.com/user-attachments/assets/4005ce2f-6b69-43d0-8653-83c4f2d8ca5e" />
 
 
 ## Project Overview
 
-The dashboard was created to explore and visualize sales data in an intuitive and interactive way. It highlights important business KPIs and helps identify patterns in product performance, customer segments, and payment preferences.
+The dashboard focuses on turning sales data into meaningful insights through interactive visuals and KPIs. It highlights patterns in product performance, purchasing behavior, and regional demand while making the data easy to explore through filters and dynamic visuals.
 
-## Key Metrics
+## Key Highlights
 
-The dashboard tracks the following KPIs:
+- Track overall business performance through **Sales, Profit, Quantity Sold, and Average Delivery Time**
+- Analyze **product categories and sub-categories** to identify top-performing items
+- Understand **customer payment preferences**
+- Observe **monthly sales and profit trends**
+- Explore **regional sales distribution** through map visualizations
+- Identify customer buying patterns through interactive charts
 
-- Total Sales
-- Total Profit
-- Total Quantity Sold
-- Average Delivery Time
+## Insights From the Dashboard
 
-## Dashboard Insights
+The dashboard helps answer important business questions such as:
 
-The dashboard provides insights into:
-
-- Sales distribution across **product categories**
-- Performance of **sub-categories**
-- Sales trends across **months**
-- Sales distribution by **payment mode**
-- Regional sales performance using **map visualization**
-- Customer segmentation and purchasing patterns
-
-## Tools & Technologies
-
-- **Power BI** – Dashboard development and visualization  
-- **Excel** – Data preparation and dataset storage  
-- **Data Visualization** – Interactive business insights  
+- Which product categories generate the most sales?
+- How do sales and profit change over time?
+- What payment methods are most preferred by customers?
+- Which regions contribute the highest revenue?
 
 ## Project Files
 
 | File | Description |
 |-----|-------------|
-| `DB.pbix` | Power BI dashboard file |
-| `Dataset (2).xlsx` | Dataset used for analysis |
-| `BG.png` | Dashboard background asset |
-| `logo.png` | Branding/logo used in dashboard |
+| `DB.pbix` | Power BI dashboard containing all visuals and KPIs |
+| `Dataset (2).xlsx` | Dataset used for building the analysis |
+| `BG.png` | Background asset used in the dashboard |
+| `logo.png` | Branding element included in the dashboard |
 
-## How to Use
+## Exploring the Dashboard
 
-1. Download the repository.
-2. Open the `DB.pbix` file using **Power BI Desktop**.
-3. Interact with filters and visuals to explore insights.
-
-## Author
-
-**Afeefa Rahman**
-
-Data Science & Analytics Student  
+Download the repository and open the `DB.pbix` file using **Power BI Desktop** to interact with the dashboard and explore the insights.
