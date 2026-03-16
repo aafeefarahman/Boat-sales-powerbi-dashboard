@@ -3,8 +3,7 @@
 This project presents an interactive **Power BI dashboard** built to analyze sales performance of BoAt products. The dashboard provides insights into key business metrics, sales trends, customer purchasing behavior, and regional performance.
 
 ## Dashboard Preview
-<img width="582" height="322" alt="Screenshot 2026-03-16 194619" src="https://github.com/user-attachments/assets/afb9c70c-9525-482f-bc08-55bd8a8d4832" />
-
+  <img width="582" height="327" alt="image" src="https://github.com/user-attachments/assets/415008ff-9dae-4f25-a06b-f31c9aadbced" />
 
 
 ## Project Overview
