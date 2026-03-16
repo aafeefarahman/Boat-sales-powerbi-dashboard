@@ -4,7 +4,6 @@ This project presents an interactive **Power BI dashboard** built to analyze sal
 
 ## Dashboard Preview
 <img width="582" height="322" alt="Screenshot 2026-03-16 194619" src="https://github.com/user-attachments/assets/afb9c70c-9525-482f-bc08-55bd8a8d4832" />
-<img width="582" height="322" alt="Screenshot 2026-03-16 194619" src="https://github.com/user-attachments/assets/afb9c70c-9525-482f-bc08-55bd8a8d4832" />
 
 
 
